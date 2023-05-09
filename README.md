@@ -1,17 +1,11 @@
 Hi, I’m Luca Comparini  
-I’m currently studying Computer Science at University of Genoa.  
-Here you will find both academic projects and personal project.  
+I’m a Computer Science gradueted at University of Genoa.  
+Here you will find both academic projects and personal project.
+I put README everywhere so the navigation should be confortable enough.
 
-Academic-related projects:  
--Making a shall from zero.  
--Quantum teleport implementation in Qiskit.  
--DB implemantation from scratch.  
--PingPong and Server in C.  
--Searching algorithm for graph exploration in C++.  
--Calculation Programs for retirement benefits in C++.  
--A little site in HTML, CSS, PHP, JS.  
+Check the University repository for Academic-related projectstou will get a good idea of whta i've learned.
 
-Personal Projects:  
--Python programs for financial data fetch, chart analysis, backtasting Option strategies.  
+Check Personal Projects Repository to see what i'm focus on. (repository still in progress)
   
-Most of comments in my code and all of my relations about my projects are in Italian.  
+Most of comments in my code and all of my relations about my projects are in Italian.
+If you wanna talk about some project or see some improvements i could do or even for some typo i'll listen here: lc96@protonmail.com
